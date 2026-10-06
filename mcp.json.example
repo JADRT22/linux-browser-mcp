@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "linux-browser": {
+      "command": "python",
+      "args": ["-I", "-u", "/home/fernando/linux-browser-mcp/server.py"]
+    }
+  }
+}
